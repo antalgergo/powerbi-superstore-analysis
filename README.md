@@ -67,6 +67,10 @@ The report was built using a Star Schema model.
 - Dedicated Measure Table
 - Optimized one-to-many relationships
 
+**Screenshot**
+
+![Data Model](Images/model_view.png)
+
 ---
 
 ## Dashboard Pages
